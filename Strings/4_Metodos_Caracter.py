@@ -1,0 +1,18 @@
+cadena = "estoy utiliZAnDO METOodos"
+print(cadena) 
+#LOS METODOS MODIFICAN ALGO, EN ESTE CASO CADDENAS
+
+#METODO QUE CAMBIA A MINUSCULA
+print(cadena.lower())
+
+#METODO QUE CAMBIA A MAYUSCULA
+print(cadena.upper())
+
+#METODO PARA PONER LA PRIMERA LETRA EN MAYUSCULA
+print(cadena.capitalize())
+
+#METODO QE PONE LA PRIMERA LETRA DE CADA PALABRA A MAYUSCULA
+print(cadena.title())
+
+#METODO QUE VUELVE MAYUSCULAS A MINUSCULAS Y VICEVERSA
+print(cadena.swapcase())
