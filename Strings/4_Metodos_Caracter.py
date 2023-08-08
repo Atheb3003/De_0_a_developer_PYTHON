@@ -1,4 +1,4 @@
-cadena = "estoy utiliZAnDO METOodos"
+cadena = "estoy utiliZAnDO METOdos"
 print(cadena) 
 #LOS METODOS MODIFICAN ALGO, EN ESTE CASO CADDENAS
 

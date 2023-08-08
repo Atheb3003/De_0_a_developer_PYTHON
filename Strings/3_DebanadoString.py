@@ -3,9 +3,9 @@ YA SEA POR FRAGMENTOS UNICOS O POR CONJUNTOS """
 
 cadena = "Esto es una cadena"
 
-# LA FUNCION LEN NOS DA EL TAMAÑO DE UNA CADENA 
+"""LA FUNCION LEN NOS DA EL TAMAÑO DE UNA CADENA"""
 
-print(len(cadena))
+print(len(cadena)) 
 
 # Con los corchetes pordemos coger unicamente una parte o un conjunto de la cadena
 
